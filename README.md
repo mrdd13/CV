@@ -6,9 +6,9 @@
 
 ## Sobre mí / About me
 
-🇪🇸 Estudiante de 4º curso apasionada por la robótica, la automatización y la IA aplicada. Busco una oportunidad de prácticas para 2026.
+🇪🇸 Estudiante de 4º curso apasionada por la robótica, la automatización y la IA aplicada. Busco una oportunidad de prácticas para 2026/2027.
 
-🇬🇧 4th-year engineering student passionate about robotics, automation, and applied AI. Looking for an internship opportunity for 2026.
+🇬🇧 4th-year engineering student passionate about robotics, automation, and applied AI. Looking for an internship opportunity for 2026/2027.
 
 ## Skills
 
@@ -21,4 +21,4 @@
 
 ## Contacto / Contact
 
-📧 mayard1013@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](tu-link)
+📧 mayard1013@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/maya-ruiz)
