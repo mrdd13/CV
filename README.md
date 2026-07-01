@@ -21,4 +21,4 @@
 
 ## Contacto / Contact
 
-📧 mayard1013@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/maya-ruiz)
+📧 mayard1013@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/maya-ruiz) &nbsp;|&nbsp; 📞+34 640 555 107
