@@ -1,6 +1,6 @@
 # Maya Ruiz Díaz
 **Ingeniería Electrónica, Robótica y Mecatrónica** — Universidad de Málaga  
-🇪🇸 [Ver CV en español](./CV_Maya_Ruiz_ES.pdf) &nbsp;|&nbsp; 🇬🇧 [View CV in English](./CV_Maya_Ruiz_EN.pdf)
+🇪🇸 [Ver CV en español](https://github.com/mrdd13/CV/blob/main/ES_CV_Maya.pdf) &nbsp;|&nbsp; 🇬🇧 [View CV in English](./CV_Maya_Ruiz_EN.pdf)
 
 ---
 
