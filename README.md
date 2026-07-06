@@ -16,7 +16,7 @@
 
 ## Proyectos destacados / Featured projects
 
-- 🤖 **[Control de brazo industrial ABB IRB 120](enlace-al-repo)** — Programación de trayectorias y simulación en RobotStudio
+- 🤖 **[Control de brazo industrial ABB IRB 120](https://github.com/mrdd13/simulaciones-ABB/tree/main)** — Programación de trayectorias y simulación en RobotStudio
 - 💻 **[App web con IA](enlace-al-repo)** — En desarrollo
 - ✈️ **[Proyecto de ingeniería, renovación de hangar](https://github.com/mrdd13/proyecto-ingenieria-hangar-airbus)** - Diseño de iluminación automatizada, videovigilancia e instalación eléctrica.
 
