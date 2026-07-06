@@ -12,7 +12,7 @@
 
 ## Skills
 
-`C++` `MATLAB` `Simulink` `RobotStudio` `VHDL` `CAD` `Visión Artificial / Computer Vision`
+`C++` `MATLAB` `Simulink` `RobotStudio` `HTML` `CAD` `Visión Artificial / Computer Vision`
 
 ## Proyectos destacados / Featured projects
 
